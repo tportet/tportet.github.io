@@ -22,15 +22,6 @@ h2 {
     color: gray;
 }
 
-main {
-    width: 100%;
-    max-width: 600px;
-    padding: 20px;
-}
-
-.groupe-liste {
-    margin-bottom: 20px;
-}
 
 .groupe-liste h3 {
     font-size: 1.2em;
@@ -64,4 +55,14 @@ footer {
 footer a {
     text-decoration: none;
     color: blue;
+}
+
+.bloc {
+    min-width: 300px;
+    max-width: 60%;
+    border-radius: 10px;
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 500px;
 }
